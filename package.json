@@ -1,0 +1,25 @@
+{
+  "name": "blurts-fluent",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bin": {
+    "blurts-fluent": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pdehaan/blurts-fluent/issues"
+  },
+  "dependencies": {
+    "fluent-syntax": "0.10.0"
+  },
+  "homepage": "https://github.com/pdehaan/blurts-fluent#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/blurts-fluent.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
